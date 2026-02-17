@@ -24,6 +24,7 @@ Este es un párrafo con **negrita**, *cursiva* y `código inline`.
 print("Hola Markdown")
 ```
 
+## Tabla
 | Columna A | Columna B |
 | --------- | --------- |
 | 1         | 2         |
