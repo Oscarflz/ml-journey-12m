@@ -3,6 +3,10 @@
  - **Regla semanal:** 10-15 horas de estudio semanal.
  - **Qué voy a medir cada semana:** Haber cumplido la regla senamal y tener algún entregable que se pueda mostrar.
  ## Bitácora
+### 8:05 p.m. 25/02/2026
+ - [x] Kaggle Learn Intro to ML: Lesson 4
+ - [x] [Ejercicio Lesson 4](../projects/00-kaggle-intro/06-lesson-4-exercise-model-validation.ipynb)
+ - [x] Kaggle Learn Intro to ML: Lesson 5
  ### 9:21 p.m. 23/02/2026
  - [x] Kaggle Learn Intro to ML: Lesson 3
  - [x] [Ejercicio Lesson 3](../projects/00-kaggle-intro/04-lesson-3-exercise-your-first-machine-learning-model.ipynb)
