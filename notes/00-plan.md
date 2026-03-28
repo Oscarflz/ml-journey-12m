@@ -7,6 +7,11 @@
     3. Haber dejado trazabilidad en la bitácora.
  - **Criterio de ejecución:** Priorizar constancia semanal y avances visibles sobre terminar rápido.
 ## Bitácora
+### 28/03/2026
+- [x] Inicié un nuevo curso en Kaggle Learn: Intermediate Machine Learning
+- [x] Kaggle Learn Intermediate Machine Learning: Lesson 1
+- [x] [Ejercicio Lesson 1](../projects/01-kaggle-intermediate/00-lesson-1-exercise-introduction.ipynb)
+- [x] Envié el ejercicio a la competencia, pero obtuve una peor puntuación. El modelo tenía más parámetros, pero menos features.
 ### 18/03/2026
 - [x] Reajusté la ruta de 12 meses / 10-15 h a 36 meses / 6 h por semana.
 ### 05/03/2026
